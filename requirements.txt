@@ -1,0 +1,10 @@
+transformers >= 4.18.0
+accelerate >= 0.9.0
+pandas == 1.4.2
+atasets >= 2.3.2
+sentencepiece != 0.1.92
+protobuf >= 3.19.4
+spacy >= 3.2.4
+scispacy >= 0.2.4
+tensorflow == 2.15.0.post1
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_core_sci_md-0.5.1.tar.gz
