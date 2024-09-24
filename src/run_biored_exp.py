@@ -16,6 +16,8 @@
 
 """ Fine-tuning the library models for sequence classification."""
 
+import warnings
+warnings.filterwarnings("ignore")
 
 import logging
 import os
